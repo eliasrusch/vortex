@@ -1,3 +1,3 @@
 # Docs test
 
-[about.md]
+(about.md)

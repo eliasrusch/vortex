@@ -1,1 +1,1 @@
-# VortexLang
+# Vortex Programming Language
